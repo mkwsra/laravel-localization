@@ -168,7 +168,7 @@ class LaravelLocalization {
     }
 
     /**
-     * Set and return supported locales
+     * Set and supported locales
      *
      * @param  array $locales Locales that the App supports
      */
